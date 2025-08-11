@@ -1,0 +1,10 @@
+RENCANA PKL
+- mendapat nilai tinggi sertifikat PKL
+  * Menjalankan semua tugas PKL sesuai arahan pembimbing lapangan.
+  * Menyelesaikan proyek tepat waktu dan dengan kualitas baik.
+- menampilkan web terbaik saat kunjungan dari sekolah
+  * Menyusun desain web yang rapi, responsif, dan user-friendly
+  * Melakukan pengujian (testing) sebelum demo untuk memastikan tidak ada bug
+- meninngkatkan kemampuan GIT
+  * Memahami perintah Git dasar: clone, add, commit, push, pull, dan branch.
+  * Belajar Git workflow yang baik (branching, merge, pull request).
