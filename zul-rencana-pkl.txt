@@ -2,6 +2,7 @@ RENCANA PKL
 - mendapat nilai tinggi sertifikat PKL
   * Menjalankan semua tugas PKL sesuai arahan pembimbing lapangan.
   * Menyelesaikan proyek tepat waktu dan dengan kualitas baik.
+  * Selalu datang tepat waktu selama 4 bulan
 - Mengimplementasikan ilmu yang di dapat di dudi ke sekolah
   * mengajarkan GIT ke adik kelas yang belum pernah mempelajarinya
   * collab bersama teman-teman lain untuk berbagi ilmu ke adik kelas
