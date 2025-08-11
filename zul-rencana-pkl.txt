@@ -1,0 +1,4 @@
+RENCANA PKL
+- mendapat nilai tinggi sertifikat PKL
+- menampilkan web terbaik saat kunjungan dari sekolah
+- meninngkatkan kemampuan GIT
