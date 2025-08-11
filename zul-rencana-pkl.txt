@@ -8,6 +8,4 @@ RENCANA PKL
 - menampilkan web terbaik saat kunjungan dari sekolah
   * Menyusun desain web yang rapi, responsif, dan user-friendly
   * Melakukan pengujian (testing) sebelum demo untuk memastikan tidak ada bug
-- meninngkatkan kemampuan GIT
-  * Memahami perintah Git dasar: clone, add, commit, push, pull, dan branch.
-  * Belajar Git workflow yang baik (branching, merge, pull request).
+  * menjelaskan apa saja yang sudah di pelajari di dudi
