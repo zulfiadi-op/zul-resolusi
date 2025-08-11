@@ -4,6 +4,7 @@ RENCANA PKL
   * Menyelesaikan proyek tepat waktu dan dengan kualitas baik.
 - Mengimplementasikan ilmu yang di dapat di dudi ke sekolah
   * mengajarkan GIT ke adik kelas yang belum pernah mempelajarinya
+  * collab bersama teman-teman lain untuk berbagi ilmu ke adik kelas
 - menampilkan web terbaik saat kunjungan dari sekolah
   * Menyusun desain web yang rapi, responsif, dan user-friendly
   * Melakukan pengujian (testing) sebelum demo untuk memastikan tidak ada bug
